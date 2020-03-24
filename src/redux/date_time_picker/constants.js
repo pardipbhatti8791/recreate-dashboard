@@ -1,0 +1,4 @@
+export const DATE_PICKER = {
+  OPEN_ClOSE: 'OPEN_ClOSE',
+  SET_DATE_TIME: 'SET_DATE_TIME'
+};
